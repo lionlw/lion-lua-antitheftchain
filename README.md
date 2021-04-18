@@ -1,7 +1,7 @@
 # lion-lua-antitheftchain
 
 ## 特点
-lua实现的防盗链机制，需部署在nginx上。性能优良。之前用于生产环境。
+lua实现的防盗链机制，需部署在nginx上。性能优良。用于生产环境。
 
 ## 说明
 
