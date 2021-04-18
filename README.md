@@ -6,8 +6,8 @@ lua实现的防盗链机制，需部署在nginx上。性能优良。之前用于
 ## 说明
 
 ### 代码文件
-antitheftchain.lua 防盗链lua脚本
-nginx.conf 防盗链nginx配置
+antitheftchain.lua 防盗链lua脚本  
+nginx.conf 防盗链nginx配置  
 
 ### 实现概述
 1、采用lua-nginx-module  
